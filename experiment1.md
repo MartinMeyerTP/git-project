@@ -4,3 +4,5 @@ Ich versuche diese Datei gleich mal zu mergen....
 
 Ich versuche hier mal in einem neuen Branch zu arbeiten.. 
 
+
+Diese Nachricht kommt vor dem merge im Branch "neuerbranch" und sollte auch dort auftauchen 
